@@ -4,7 +4,7 @@
 {
     'name': 'myapp',
     'version': '1.0',
-    'category': 'Sales/Sales',
+    'category': 'Sales',
     'summary': 'Sales',
     'description': """
 This module contains the very basic features of Sales Management.
